@@ -5,6 +5,15 @@ eqfeed_callback(
         {
 	"type":"Feature",
 	"properties":{
+		"mag": 40632
+	},
+"geometry":{
+		"type":"Point",
+"coordinates":[105.318756, 61.52401]
+	}
+},{
+	"type":"Feature",
+	"properties":{
 		"mag": 5645
 	},
 "geometry":{
