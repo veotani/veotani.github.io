@@ -37,7 +37,8 @@
         map.data.setStyle(function(feature) {
           var magnitude = feature.getProperty('mag');
           return {
-            icon: getCircle(magnitude)
+            icon: getCircle(magnitude),
+            title: magnitude
           };
         });
       }
@@ -47,7 +48,7 @@
           path: google.maps.SymbolPath.CIRCLE,
           fillColor: 'red',
           fillOpacity: .2,
-          scale: avgMark,
+          scale: Math.log2(avgMark),
           strokeColor: 'white',
           strokeWeight: .5
         };

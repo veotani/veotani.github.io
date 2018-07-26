@@ -5,7 +5,7 @@ eqfeed_callback(
         {
 	"type":"Feature",
 	"properties":{
-		"mag": 17.277050953167524
+		"mag": 5645
 	},
 "geometry":{
 		"type":"Point",
@@ -14,7 +14,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 14.92787320893785
+		"mag": 1744
 	},
 "geometry":{
 		"type":"Point",
@@ -23,7 +23,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 16.533870695220912
+		"mag": 3893
 	},
 "geometry":{
 		"type":"Point",
@@ -32,7 +32,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 14.746748619820098
+		"mag": 1593
 	},
 "geometry":{
 		"type":"Point",
@@ -41,7 +41,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 13.916896786595311
+		"mag": 1052
 	},
 "geometry":{
 		"type":"Point",
@@ -50,7 +50,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 12.173549453824613
+		"mag": 440
 	},
 "geometry":{
 		"type":"Point",
@@ -59,7 +59,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 11.181973961021713
+		"mag": 268
 	},
 "geometry":{
 		"type":"Point",
@@ -68,7 +68,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 10.271596874100524
+		"mag": 170
 	},
 "geometry":{
 		"type":"Point",
@@ -77,7 +77,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 12.085265667364762
+		"mag": 421
 	},
 "geometry":{
 		"type":"Point",
@@ -86,7 +86,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 11.14430806435553
+		"mag": 263
 	},
 "geometry":{
 		"type":"Point",
@@ -95,7 +95,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 11.972904010568875
+		"mag": 398
 	},
 "geometry":{
 		"type":"Point",
@@ -104,7 +104,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 10.199732855648397
+		"mag": 164
 	},
 "geometry":{
 		"type":"Point",
@@ -113,7 +113,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 10.545999117127494
+		"mag": 195
 	},
 "geometry":{
 		"type":"Point",
@@ -122,7 +122,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 10.94454134734295
+		"mag": 238
 	},
 "geometry":{
 		"type":"Point",
@@ -131,7 +131,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 11.105919169843235
+		"mag": 258
 	},
 "geometry":{
 		"type":"Point",
@@ -140,7 +140,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 12.44911685855072
+		"mag": 505
 	},
 "geometry":{
 		"type":"Point",
@@ -149,7 +149,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 12.2405948379019
+		"mag": 455
 	},
 "geometry":{
 		"type":"Point",
@@ -158,7 +158,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 13.164050277785652
+		"mag": 722
 	},
 "geometry":{
 		"type":"Point",
@@ -167,7 +167,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 12.750049639656194
+		"mag": 587
 	},
 "geometry":{
 		"type":"Point",
@@ -176,7 +176,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 12.691272721657192
+		"mag": 570
 	},
 "geometry":{
 		"type":"Point",
@@ -185,7 +185,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.0861025356691
+		"mag": 57
 	},
 "geometry":{
 		"type":"Point",
@@ -194,7 +194,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 9.953467484841148
+		"mag": 145
 	},
 "geometry":{
 		"type":"Point",
@@ -203,7 +203,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 12.56079167792039
+		"mag": 534
 	},
 "geometry":{
 		"type":"Point",
@@ -212,7 +212,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 12.132216180207495
+		"mag": 431
 	},
 "geometry":{
 		"type":"Point",
@@ -221,7 +221,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 10.586609649448985
+		"mag": 199
 	},
 "geometry":{
 		"type":"Point",
@@ -230,7 +230,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.885302512980633
+		"mag": 85
 	},
 "geometry":{
 		"type":"Point",
@@ -239,7 +239,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 10.271596874100524
+		"mag": 170
 	},
 "geometry":{
 		"type":"Point",
@@ -248,7 +248,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 10.318110598429058
+		"mag": 174
 	},
 "geometry":{
 		"type":"Point",
@@ -257,7 +257,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 10.340967990076303
+		"mag": 176
 	},
 "geometry":{
 		"type":"Point",
@@ -266,7 +266,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 11.453695495174394
+		"mag": 307
 	},
 "geometry":{
 		"type":"Point",
@@ -275,7 +275,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 5.666426688112432
+		"mag": 17
 	},
 "geometry":{
 		"type":"Point",
@@ -284,7 +284,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 9.269457976459272
+		"mag": 103
 	},
 "geometry":{
 		"type":"Point",
@@ -293,7 +293,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 11.492406381080306
+		"mag": 313
 	},
 "geometry":{
 		"type":"Point",
@@ -302,7 +302,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 9.086589564540008
+		"mag": 94
 	},
 "geometry":{
 		"type":"Point",
@@ -311,7 +311,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 9.656627474604603
+		"mag": 125
 	},
 "geometry":{
 		"type":"Point",
@@ -320,7 +320,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 11.853852051940821
+		"mag": 375
 	},
 "geometry":{
 		"type":"Point",
@@ -329,7 +329,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 7.3777589082278725
+		"mag": 40
 	},
 "geometry":{
 		"type":"Point",
@@ -338,7 +338,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 9.419060402624668
+		"mag": 111
 	},
 "geometry":{
 		"type":"Point",
@@ -347,7 +347,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 7.568379267836522
+		"mag": 44
 	},
 "geometry":{
 		"type":"Point",
@@ -356,7 +356,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 9.345657668923812
+		"mag": 107
 	},
 "geometry":{
 		"type":"Point",
@@ -365,7 +365,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 10.223975576713087
+		"mag": 166
 	},
 "geometry":{
 		"type":"Point",
@@ -374,7 +374,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 11.604236750754126
+		"mag": 331
 	},
 "geometry":{
 		"type":"Point",
@@ -383,7 +383,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 11.189422759203678
+		"mag": 269
 	},
 "geometry":{
 		"type":"Point",
@@ -392,7 +392,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 10.713172549344025
+		"mag": 212
 	},
 "geometry":{
 		"type":"Point",
@@ -401,7 +401,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 11.151898206292632
+		"mag": 264
 	},
 "geometry":{
 		"type":"Point",
@@ -410,7 +410,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 10.021270588192511
+		"mag": 150
 	},
 "geometry":{
 		"type":"Point",
@@ -419,7 +419,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 7.700295203420117
+		"mag": 47
 	},
 "geometry":{
 		"type":"Point",
@@ -428,7 +428,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 6.437751649736401
+		"mag": 25
 	},
 "geometry":{
 		"type":"Point",
@@ -437,7 +437,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.15507488781144
+		"mag": 59
 	},
 "geometry":{
 		"type":"Point",
@@ -446,7 +446,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.63497622707262
+		"mag": 75
 	},
 "geometry":{
 		"type":"Point",
@@ -455,7 +455,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 6.734591659972948
+		"mag": 29
 	},
 "geometry":{
 		"type":"Point",
@@ -464,7 +464,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.788898309344878
+		"mag": 81
 	},
 "geometry":{
 		"type":"Point",
@@ -473,7 +473,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 9.55824698622306
+		"mag": 119
 	},
 "geometry":{
 		"type":"Point",
@@ -482,7 +482,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.687610843707368
+		"mag": 77
 	},
 "geometry":{
 		"type":"Point",
@@ -491,7 +491,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.788898309344878
+		"mag": 81
 	},
 "geometry":{
 		"type":"Point",
@@ -500,7 +500,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 6.8679744089702925
+		"mag": 31
 	},
 "geometry":{
 		"type":"Point",
@@ -509,7 +509,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.63497622707262
+		"mag": 75
 	},
 "geometry":{
 		"type":"Point",
@@ -518,7 +518,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 7.110696122978827
+		"mag": 35
 	},
 "geometry":{
 		"type":"Point",
@@ -527,7 +527,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.788898309344878
+		"mag": 81
 	},
 "geometry":{
 		"type":"Point",
@@ -536,7 +536,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 7.110696122978827
+		"mag": 35
 	},
 "geometry":{
 		"type":"Point",
@@ -545,7 +545,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 9.953467484841148
+		"mag": 145
 	},
 "geometry":{
 		"type":"Point",
@@ -554,7 +554,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 6.516193076042964
+		"mag": 26
 	},
 "geometry":{
 		"type":"Point",
@@ -563,7 +563,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.99961934066053
+		"mag": 90
 	},
 "geometry":{
 		"type":"Point",
@@ -572,7 +572,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.286269452783065
+		"mag": 63
 	},
 "geometry":{
 		"type":"Point",
@@ -581,7 +581,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 4.969813299576001
+		"mag": 12
 	},
 "geometry":{
 		"type":"Point",
@@ -590,7 +590,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 5.41610040220442
+		"mag": 15
 	},
 "geometry":{
 		"type":"Point",
@@ -599,7 +599,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 6.182084906716632
+		"mag": 22
 	},
 "geometry":{
 		"type":"Point",
@@ -608,7 +608,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 9.0217190130337
+		"mag": 91
 	},
 "geometry":{
 		"type":"Point",
@@ -617,7 +617,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.46821300919452
+		"mag": 69
 	},
 "geometry":{
 		"type":"Point",
@@ -626,7 +626,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 7.327123292259293
+		"mag": 39
 	},
 "geometry":{
 		"type":"Point",
@@ -635,7 +635,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 10.655752337579163
+		"mag": 206
 	},
 "geometry":{
 		"type":"Point",
@@ -644,7 +644,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.46821300919452
+		"mag": 69
 	},
 "geometry":{
 		"type":"Point",
@@ -653,7 +653,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 9.507180382212729
+		"mag": 116
 	},
 "geometry":{
 		"type":"Point",
@@ -662,7 +662,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.286269452783065
+		"mag": 63
 	},
 "geometry":{
 		"type":"Point",
@@ -671,7 +671,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 9.419060402624668
+		"mag": 111
 	},
 "geometry":{
 		"type":"Point",
@@ -680,7 +680,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 7.427144133408616
+		"mag": 41
 	},
 "geometry":{
 		"type":"Point",
@@ -689,7 +689,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 6.931471805599453
+		"mag": 32
 	},
 "geometry":{
 		"type":"Point",
@@ -698,7 +698,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.0861025356691
+		"mag": 57
 	},
 "geometry":{
 		"type":"Point",
@@ -707,7 +707,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 4.394449154672439
+		"mag": 9
 	},
 "geometry":{
 		"type":"Point",
@@ -716,7 +716,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 6.931471805599453
+		"mag": 32
 	},
 "geometry":{
 		"type":"Point",
@@ -725,7 +725,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 7.700295203420117
+		"mag": 47
 	},
 "geometry":{
 		"type":"Point",
@@ -734,7 +734,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 2.1972245773362196
+		"mag": 3
 	},
 "geometry":{
 		"type":"Point",
@@ -743,7 +743,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 6.9930151229329605
+		"mag": 33
 	},
 "geometry":{
 		"type":"Point",
@@ -752,7 +752,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 5.991464547107982
+		"mag": 20
 	},
 "geometry":{
 		"type":"Point",
@@ -761,7 +761,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 8.254268770090183
+		"mag": 62
 	},
 "geometry":{
 		"type":"Point",
@@ -770,7 +770,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 6.802394763324311
+		"mag": 30
 	},
 "geometry":{
 		"type":"Point",
@@ -779,7 +779,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 3.2188758248682006
+		"mag": 5
 	},
 "geometry":{
 		"type":"Point",
@@ -788,7 +788,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 4.969813299576001
+		"mag": 12
 	},
 "geometry":{
 		"type":"Point",
@@ -797,7 +797,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 3.2188758248682006
+		"mag": 5
 	},
 "geometry":{
 		"type":"Point",
@@ -806,7 +806,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 4.605170185988092
+		"mag": 10
 	},
 "geometry":{
 		"type":"Point",
@@ -815,7 +815,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 5.666426688112432
+		"mag": 17
 	},
 "geometry":{
 		"type":"Point",
@@ -824,7 +824,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 6.931471805599453
+		"mag": 32
 	},
 "geometry":{
 		"type":"Point",
@@ -833,7 +833,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 3.8918202981106265
+		"mag": 7
 	},
 "geometry":{
 		"type":"Point",
@@ -842,7 +842,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 5.1298987149230735
+		"mag": 13
 	},
 "geometry":{
 		"type":"Point",
@@ -851,7 +851,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 6.089044875446846
+		"mag": 21
 	},
 "geometry":{
 		"type":"Point",
@@ -860,7 +860,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 5.8888779583328805
+		"mag": 19
 	},
 "geometry":{
 		"type":"Point",
@@ -869,7 +869,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 5.41610040220442
+		"mag": 15
 	},
 "geometry":{
 		"type":"Point",
@@ -878,7 +878,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 7.522400231387125
+		"mag": 43
 	},
 "geometry":{
 		"type":"Point",
@@ -887,7 +887,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 5.1298987149230735
+		"mag": 13
 	},
 "geometry":{
 		"type":"Point",
@@ -896,7 +896,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 3.58351893845611
+		"mag": 6
 	},
 "geometry":{
 		"type":"Point",
@@ -905,7 +905,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 6.437751649736401
+		"mag": 25
 	},
 "geometry":{
 		"type":"Point",
@@ -914,7 +914,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 5.991464547107982
+		"mag": 20
 	},
 "geometry":{
 		"type":"Point",
@@ -923,7 +923,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 4.605170185988092
+		"mag": 10
 	},
 "geometry":{
 		"type":"Point",
@@ -932,7 +932,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 6.9930151229329605
+		"mag": 33
 	},
 "geometry":{
 		"type":"Point",
@@ -941,7 +941,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 4.795790545596741
+		"mag": 11
 	},
 "geometry":{
 		"type":"Point",
@@ -950,7 +950,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 2.772588722239781
+		"mag": 4
 	},
 "geometry":{
 		"type":"Point",
@@ -959,7 +959,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 5.278114659230517
+		"mag": 14
 	},
 "geometry":{
 		"type":"Point",
@@ -968,7 +968,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 5.1298987149230735
+		"mag": 13
 	},
 "geometry":{
 		"type":"Point",
@@ -977,7 +977,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 4.1588830833596715
+		"mag": 8
 	},
 "geometry":{
 		"type":"Point",
@@ -986,7 +986,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 4.795790545596741
+		"mag": 11
 	},
 "geometry":{
 		"type":"Point",
@@ -995,7 +995,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 3.58351893845611
+		"mag": 6
 	},
 "geometry":{
 		"type":"Point",
@@ -1004,7 +1004,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 3.8918202981106265
+		"mag": 7
 	},
 "geometry":{
 		"type":"Point",
@@ -1013,7 +1013,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 4.605170185988092
+		"mag": 10
 	},
 "geometry":{
 		"type":"Point",
@@ -1022,7 +1022,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 2.772588722239781
+		"mag": 4
 	},
 "geometry":{
 		"type":"Point",
@@ -1031,7 +1031,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 3.2188758248682006
+		"mag": 5
 	},
 "geometry":{
 		"type":"Point",
@@ -1040,7 +1040,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 2.1972245773362196
+		"mag": 3
 	},
 "geometry":{
 		"type":"Point",
@@ -1049,7 +1049,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 2.772588722239781
+		"mag": 4
 	},
 "geometry":{
 		"type":"Point",
@@ -1058,7 +1058,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 4.394449154672439
+		"mag": 9
 	},
 "geometry":{
 		"type":"Point",
@@ -1067,7 +1067,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 3.2188758248682006
+		"mag": 5
 	},
 "geometry":{
 		"type":"Point",
@@ -1076,7 +1076,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1085,7 +1085,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 4.1588830833596715
+		"mag": 8
 	},
 "geometry":{
 		"type":"Point",
@@ -1094,7 +1094,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 1.3862943611198906
+		"mag": 2
 	},
 "geometry":{
 		"type":"Point",
@@ -1103,7 +1103,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1112,7 +1112,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 5.666426688112432
+		"mag": 17
 	},
 "geometry":{
 		"type":"Point",
@@ -1121,7 +1121,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 3.2188758248682006
+		"mag": 5
 	},
 "geometry":{
 		"type":"Point",
@@ -1130,7 +1130,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 5.41610040220442
+		"mag": 15
 	},
 "geometry":{
 		"type":"Point",
@@ -1139,7 +1139,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 2.772588722239781
+		"mag": 4
 	},
 "geometry":{
 		"type":"Point",
@@ -1148,7 +1148,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 4.394449154672439
+		"mag": 9
 	},
 "geometry":{
 		"type":"Point",
@@ -1157,7 +1157,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 5.545177444479562
+		"mag": 16
 	},
 "geometry":{
 		"type":"Point",
@@ -1166,7 +1166,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 5.780743515792329
+		"mag": 18
 	},
 "geometry":{
 		"type":"Point",
@@ -1175,7 +1175,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 4.605170185988092
+		"mag": 10
 	},
 "geometry":{
 		"type":"Point",
@@ -1184,7 +1184,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 3.58351893845611
+		"mag": 6
 	},
 "geometry":{
 		"type":"Point",
@@ -1193,7 +1193,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 3.58351893845611
+		"mag": 6
 	},
 "geometry":{
 		"type":"Point",
@@ -1202,7 +1202,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 3.2188758248682006
+		"mag": 5
 	},
 "geometry":{
 		"type":"Point",
@@ -1211,7 +1211,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 2.772588722239781
+		"mag": 4
 	},
 "geometry":{
 		"type":"Point",
@@ -1220,7 +1220,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 2.772588722239781
+		"mag": 4
 	},
 "geometry":{
 		"type":"Point",
@@ -1229,7 +1229,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 3.2188758248682006
+		"mag": 5
 	},
 "geometry":{
 		"type":"Point",
@@ -1238,7 +1238,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 2.772588722239781
+		"mag": 4
 	},
 "geometry":{
 		"type":"Point",
@@ -1247,7 +1247,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 2.1972245773362196
+		"mag": 3
 	},
 "geometry":{
 		"type":"Point",
@@ -1256,7 +1256,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 2.1972245773362196
+		"mag": 3
 	},
 "geometry":{
 		"type":"Point",
@@ -1265,7 +1265,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 1.3862943611198906
+		"mag": 2
 	},
 "geometry":{
 		"type":"Point",
@@ -1274,7 +1274,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 2.1972245773362196
+		"mag": 3
 	},
 "geometry":{
 		"type":"Point",
@@ -1283,7 +1283,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 1.3862943611198906
+		"mag": 2
 	},
 "geometry":{
 		"type":"Point",
@@ -1292,7 +1292,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 1.3862943611198906
+		"mag": 2
 	},
 "geometry":{
 		"type":"Point",
@@ -1301,7 +1301,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 3.2188758248682006
+		"mag": 5
 	},
 "geometry":{
 		"type":"Point",
@@ -1310,7 +1310,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 2.1972245773362196
+		"mag": 3
 	},
 "geometry":{
 		"type":"Point",
@@ -1319,7 +1319,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1328,7 +1328,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 2.1972245773362196
+		"mag": 3
 	},
 "geometry":{
 		"type":"Point",
@@ -1337,7 +1337,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1346,7 +1346,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1355,7 +1355,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1364,7 +1364,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1373,7 +1373,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1382,7 +1382,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1391,7 +1391,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1400,7 +1400,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 1.3862943611198906
+		"mag": 2
 	},
 "geometry":{
 		"type":"Point",
@@ -1409,7 +1409,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1418,7 +1418,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1427,7 +1427,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1436,7 +1436,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1445,7 +1445,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1454,7 +1454,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1463,7 +1463,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1472,7 +1472,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
@@ -1481,7 +1481,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 1.3862943611198906
+		"mag": 2
 	},
 "geometry":{
 		"type":"Point",
@@ -1490,7 +1490,7 @@ eqfeed_callback(
 },{
 	"type":"Feature",
 	"properties":{
-		"mag": 0.0
+		"mag": 1
 	},
 "geometry":{
 		"type":"Point",
